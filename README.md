@@ -71,9 +71,9 @@
  
   <table border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none;">
-    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-ranjan-das2519&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    <td><img width="500px" src="https://github-readme-stats.vercel.app/api?username=soumya-ranjan-das2519&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-ranjan-das2519&" alt="Streak Stats" /></td>
+    <td><img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-ranjan-das2519&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    <td><img width="500px"  height="200px" src="https://github-readme-stats.vercel.app/api?username=soumya-ranjan-das2519&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td><img width="400px"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-ranjan-das2519&" alt="Streak Stats" /></td>
   </tr>
 </table>
 <br/>
