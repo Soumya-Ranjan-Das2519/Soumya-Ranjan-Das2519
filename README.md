@@ -13,7 +13,7 @@
 
 
 ##  About Me 
-<img style="border-radius:50%;" align="right" width="400px" height="200" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
+<img style="border-radius:50%;" align="right" width="350px" height="200" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
