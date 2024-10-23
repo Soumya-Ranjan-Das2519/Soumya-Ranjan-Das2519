@@ -9,10 +9,11 @@
 </a> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p> -->
 <!-- <img height="200px" width="400px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/> -->
-<img style="border-radius:50%;" align="right" width="400px" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
+
 
 
 ##  About Me 
+<img style="border-radius:50%;" align="right" width="400px" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
