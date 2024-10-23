@@ -16,4 +16,4 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
 - 📧 How to reach me <b>**soumyaranjandas62587@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
-- 📄 Check out my <b><a href="[https://drive.google.com/file/d/1m3s08EUctgjY3S4xVi7f_wJNMu_io_yb/view?usp=share_link" target="_blank" rel="noopener noreferrer](https://drive.google.com/file/d/1HgkyFr3SF_sA77w4m5P0COgs-zoeWgkt/view?usp=sharing)">Resume</a></b>
+- 📄 Check out my <b><a href="https://drive.google.com/file/d/1HgkyFr3SF_sA77w4m5P0COgs-zoeWgkt/view?usp=sharing">Resume</a></b>
