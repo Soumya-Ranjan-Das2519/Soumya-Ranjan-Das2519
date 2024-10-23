@@ -53,11 +53,13 @@
   <br/>
   <br/>
   <br/>
-  <div style="display:inline;">
-  <p><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-ranjan-das2519&show_icons=true&locale=en&layout=compact" alt="soumya-ranjan-das2519" /></p>
+ 
+  <table>
+  <tr>
+    <td><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-ranjan-das2519&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    <td><img width="300px" src="https://github-readme-stats.vercel.app/api?username=soumya-ranjan-das2519&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-ranjan-das2519&" alt="Streak Stats" /></td>
+  </tr>
+</table>
 
-<p>&nbsp;<img width="300px"  src="https://github-readme-stats.vercel.app/api?username=soumya-ranjan-das2519&show_icons=true&locale=en" alt="soumya-ranjan-das2519" /></p>
-
-<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-ranjan-das2519&" alt="soumya-ranjan-das2519" /></p>
-</div>
 
