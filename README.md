@@ -52,7 +52,17 @@
    -->
   <br/>
   <br/>
+  ## 📫 Connect with Me  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/soumya-ranjan-das2519)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge)](https://soumyaportfolio.com)  
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail)](mailto:soumya.ranjan.das2519@example.com)
+
+</div>
   <br/>
+   <br/>
+    <br/>
  
   <table border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none;">
