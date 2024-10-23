@@ -9,6 +9,8 @@
 </a> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p> -->
 <!-- <img height="200px" width="400px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/> -->
+<img align="right" width="400px" src="![image](https://github.com/user-attachments/assets/937d5528-b88a-4a62-b3a6-9009b6c9d9f4)">
+
 
 ##  About Me 
 
@@ -21,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/sd7557920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sd7557920" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumya-ranjan-das-394701296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-ranjan-das-394701296" height="30" width="40" /></a>
- <a href="https://gmail.com/in/soumyaranjandas625872gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
