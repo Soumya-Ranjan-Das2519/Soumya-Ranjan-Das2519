@@ -13,13 +13,15 @@
 
 
 ##  About Me 
-<img style="border-radius:50%;" align="right" width="400px" height="300" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
+<img style="border-radius:50%;" align="right" width="400px" height="200" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
 - 📧 How to reach me <b>**soumyaranjandas62587@gmail.com**</b>
 - 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
-- 📄 Check out my <b><a href="https://drive.google.com/file/d/1EDuBNw6mgnr1AXjbeOSOoNLNURV4vI3C/view?usp=sharing">Resume</a></b>
+- 📄 Check out my <b><a href="https://drive.google.com/file/d/1EDuBNw6mgnr1AXjbeOSOoNLNURV4vI3C/view?usp=sharing">Resume</a>
+</b>
+</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sd7557920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sd7557920" height="30" width="40" /></a>
