@@ -53,7 +53,7 @@
   <br/>
   <br/>
   <br/>
-  <div style=display:inline;>
+  <div style="display:inline;">
   <p><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-ranjan-das2519&show_icons=true&locale=en&layout=compact" alt="soumya-ranjan-das2519" /></p>
 
 <p>&nbsp;<img width="300px"  src="https://github-readme-stats.vercel.app/api?username=soumya-ranjan-das2519&show_icons=true&locale=en" alt="soumya-ranjan-das2519" /></p>
