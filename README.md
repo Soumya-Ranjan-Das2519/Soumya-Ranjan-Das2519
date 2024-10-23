@@ -9,7 +9,7 @@
 </a> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodjena&label=Profile%20views&color=0e75b6&style=flat" alt="pramodjena" /> </p> -->
 <!-- <img height="200px" width="400px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/> -->
-<img align="right" width="400px" src="![image](https://github.com/user-attachments/assets/937d5528-b88a-4a62-b3a6-9009b6c9d9f4)">
+<img align="right" width="400px" src="https://github.com/user-attachments/assets/937d5528-b88a-4a62-b3a6-9009b6c9d9f4">
 
 
 ##  About Me 
