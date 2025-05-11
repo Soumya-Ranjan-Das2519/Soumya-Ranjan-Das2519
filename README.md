@@ -18,7 +18,7 @@
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
 - 📧 How to reach me <b>**soumyaranjandas62587@gmail.com**</b>
-- 👨‍💻 Know more about me <b><a href="https://pramodjena.github.io" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
+- 👨‍💻 Know more about me <b><a href="https://soumya-ranjan-das2519.github.io/My_Portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a></b>
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1EDuBNw6mgnr1AXjbeOSOoNLNURV4vI3C/view?usp=sharing">Resume</a>
 </b>
 </b>
